@@ -1,0 +1,26 @@
+ 
+
+     [
+      {
+        "name": "John Doe",
+        "age": 25,
+        "favoriteFoods": ["Pizza", "Burger"]
+      },
+      {
+        "name": "Alice",
+        "age": 30,
+        "favoriteFoods": ["Sushi", "Pasta"]
+      },
+      {
+        "name": "Bob",
+        "age": 22,
+        "favoriteFoods": ["Tacos", "Ice Cream"]
+      },
+      {
+        "name": "Jane Doe", 
+      "age": 25, 
+      "favoriteFoods": ["Pasta", "Pizza"]
+     }
+    ]
+  
+  
